@@ -24,6 +24,6 @@ Project ini dibuat menggunakan 3 bahasa pemrograman utama:
 
 ---
 
-## 📷 Preview Website
+## 📷 Live Demo Website
 
-![Preview Website Vidio](https://drive.google.com/file/d/1uuuHxV4zxB0AdsNbhBWaGpJZP0twzcKN/view?usp=sharing)
+![Live Demo Website](https://coffe-shop-platfrom.netlify.app/)
