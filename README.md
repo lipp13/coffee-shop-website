@@ -26,4 +26,4 @@ Project ini dibuat menggunakan 3 bahasa pemrograman utama:
 
 ## 📷 Live Demo Website
 
-![Live Demo Website](https://coffe-shop-platfrom.netlify.app/)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge)](https://coffe-shop-platfrom.netlify.app/)
